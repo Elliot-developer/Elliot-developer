@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello, my name is Wellington, a programmer at 16 years old </h1>
 
-<!--
-**Elliot-developer/Elliot-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+    <img 
+     height="500"
+     width="800"
+     
+  </div>
+  
+  
+<div align="center">
+ <br />
+ <h2 align="left">About me 👀</h2>
+ 
+ <div align="left">
+   <ul>
+      <li>Future full-stack programmer 💪</li>
+      <li> Front-end Developer 🔥</li>
+      <li>Doing my best to create somethin' great 💻</li>
+   </ul>
+   
+   <h2 align="left">Skills 💻</h2>
+   
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
+   
+</div>
