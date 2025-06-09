@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Wellington, a programmer at 18 years old </h1>
 
  <div align="center">
-    <img src ="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcafe-pixel-art&psig=AOvVaw2oZFEDk_lJKbegq1HuYVf2&ust=1740669227100000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCaiKnQ4YsDFQAAAAAdAAAAABAS](https://i.pinimg.com/736x/9b/34/bf/9b34bf11209aba0b97dabfae2df25ed2.jpg](https://moewalls.com/wp-content/uploads/2023/12/winter-bus-pixel-thumb-364x205.jpg)">
+    <img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcafe-pixel-art&psig=AOvVaw2oZFEDk_lJKbegq1HuYVf2&ust=1740669227100000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCaiKnQ4YsDFQAAAAAdAAAAABAS](https://i.pinimg.com/736x/9b/34/bf/9b34bf11209aba0b97dabfae2df25ed2.jpg](https://moewalls.com/wp-content/uploads/2023/12/winter-bus-pixel-thumb-364x205.jpg">
      
      
   </div>
